@@ -47,6 +47,3 @@ Desarrollar una API RESTful que permita el mantenimiento y listado de las entida
 
 El proyecto ha sido entregado a través de un repositorio Git, siguiendo las mejores prácticas de desarrollo.
 
-## Contacto
-
-Para consultas o información adicional, por favor, contactar al Departamento de Tecnología de la Información de la Superintendencia de Bancos.
